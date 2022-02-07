@@ -3,7 +3,7 @@
 # Copyright (C) 2022  ColdMacaroni
 # Licensed under GPLv3
 
-DIRS_TO_BACK=( "/etc/usr/local" "/usr/share/backgrounds" "/home/muffin/bin" "/home/muffin/Documents" "/home/muffin/projects" "/home/muffin/Pictures" "/home/muffin/Downloads" "/home/muffin/git" "/home/muffin/clones" "/home/muffin/.backups" "/home/muffin/.themes"  "/home/muffin/.ssh" "/home/muffin/.config" "/home/muffin/.oh-my-zsh")
+DIRS_TO_BACK=( "/etc" "/usr/local" "/usr/share/backgrounds" "/home/muffin/bin" "/home/muffin/Documents" "/home/muffin/projects" "/home/muffin/Pictures" "/home/muffin/Downloads" "/home/muffin/git" "/home/muffin/clones" "/home/muffin/.backups" "/home/muffin/.themes"  "/home/muffin/.ssh" "/home/muffin/.config" "/home/muffin/.oh-my-zsh")
 
 FILES_TO_BACK=("/home/muffin/.zshrc" "/home/muffin/.zsh_history" "/home/muffin/.xinitrc" "/home/muffin/.profile" "/home/muffin/TODO" "/home/muffin/notes")
 
