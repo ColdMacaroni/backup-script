@@ -130,3 +130,5 @@ done
 echo "Files done"
 echo
 echo "All done"
+
+# TODO: Add xz validation with `xz -t ${file}.tar.xz` (ret 0 on correct)
